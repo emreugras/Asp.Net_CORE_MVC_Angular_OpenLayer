@@ -1,0 +1,108 @@
+
+
+  
+<div id="map" class="map">
+    <form style="background-color: rgb(207, 218, 174);">
+        <select #types id="form-controller" name="form-controller" class="form-controller" style="font-size: large;font-style: italic;background-color: azure;" (change)="onChange($event)">
+            <option value="none">Parsel Seçimi</option>
+            <option value="Point">Point</option>
+            <option value="Polygon">Polygon</option>
+            
+        </select>
+  
+  
+    </form>
+    
+    
+    
+      
+  </div>
+  <div #myModal class="modal fade my-modal" tabindex="-1" role="dialog">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="staticBackdropLabel">Kayıt Yapma</h5>
+                
+            </div>
+            <div class="modal-body">
+                <form id="kayıtForm">
+                    <div>
+                        <input #isim type="text" id="names" placeholder="İsim Girin" />
+                        <p>
+                    </div>
+                    <div>
+                        <input #soyisim type="text" id="surnames" placeholder="Soyisim Giriniz" />
+                        <p>
+                    </div>
+                    <div>
+                        <input #yorum type="text" id="comments" placeholder="Notunuzu Girin" />
+                        <p>
+                    </div>
+                </form>
+            </div>
+  
+            <div class="modal-footer">
+                <button type="button" id="btnClose" class="btn btn-secondary" data-bs-dismiss="modal" (click)="btnClose()">Kapat</button>
+                <button type="button" class="btn btn-primary" id="exportBtn" (click)="btnSave()">Kaydet</button>
+            </div>
+        </div>
+    </div>
+  </div>
+
+  <div #gnclModal class="modal fade my-modal" tabindex="-1" role="dialog" id="gnclModal">
+    <div class="modal-dialog" >
+        <div class="modal-content">
+            <div class="modal-header">
+
+            </div>
+            <div class="modal-body">
+
+                <div>
+
+                    Seçtiğiniz Parselin Bilgileri Asaşıdadır
+                    <p>
+                </div>
+                <div>
+                    İsim:  <label for="aria-hidden"  #namer [textContent]="NameModal"></label>
+                   
+                </div>
+                <div>
+                    Soyisim: <label for="aria-hidden" #surnamer [textContent]="SurNameModal"></label>
+                </div>
+                <div>
+                    Açıklama:  <label for="aria-hidden" #commenter [textContent]="CommentModal"></label>
+                </div>
+                <div>
+                    Kayıt Tarihi:  <label for="aria-hidden" #dater [textContent]="DateModal"></label>
+                </div>
+
+
+
+
+
+                <p>
+                <p> Güncelleme Yapmak İçin Lütfen Güncellenecek Bilgileri Girip Değiştir Butonuna Basınız...</p>
+                <form #gnclForm id="gnclForm" >
+                    <label for="fname">İsim Giriniz:</label><br>
+                    <input type="text" id="fname" name="fname" #Gname><br>
+                    <label for="fsurname">Soyisim Giriniz:</label><br>
+                    <input type="text" id="fsurname" name="fsurname" #Gsurname><br>
+                    <label for="fcomnt">Açıklama Giriniz:</label><br>
+                    <input type="text" id="fcomnt" name="fcomnt" #Gcomment><br>
+                </form>
+
+
+
+
+
+            </div>
+
+            <div class="modal-footer">
+                <button type="button" class="btn btn-primary" id="sil" (click)="btnDelete();gnclForm.reset()">Bilgileri Sil</button>
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal" id="btnCloser" (click)="Gnclclose();gnclForm.reset()" (reset)="gnclForm">Kapat</button>
+                <button type="button" class="btn btn-primary" id="degistir" (click)="btnChange();gnclForm.reset()">Değiştir</button>
+            </div>
+        </div>
+    </div>
+</div>
+

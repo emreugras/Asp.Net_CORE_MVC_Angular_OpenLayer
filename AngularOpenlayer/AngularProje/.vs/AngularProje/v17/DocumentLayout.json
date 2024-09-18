@@ -1,0 +1,286 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Emre\\Desktop\\op\\AngularProje\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3313335-09FD-431F-8206-21FE38B94DFD}|Core\\AngularProject.Application\\AngularProject.Application.csproj|c:\\users\\emre\\desktop\\op\\angularproje\\core\\angularproject.application\\repositoriesuser\\ireaduserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3313335-09FD-431F-8206-21FE38B94DFD}|Core\\AngularProject.Application\\AngularProject.Application.csproj|solutionrelative:core\\angularproject.application\\repositoriesuser\\ireaduserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F19575A5-9257-45BD-A678-82D7CF82A186}|Instrafstructure\\AngularProject.Persistonts\\AngularProject.Persistence.csproj|c:\\users\\emre\\desktop\\op\\angularproje\\instrafstructure\\angularproject.persistonts\\concretes\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F19575A5-9257-45BD-A678-82D7CF82A186}|Instrafstructure\\AngularProject.Persistonts\\AngularProject.Persistence.csproj|solutionrelative:instrafstructure\\angularproject.persistonts\\concretes\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F19575A5-9257-45BD-A678-82D7CF82A186}|Instrafstructure\\AngularProject.Persistonts\\AngularProject.Persistence.csproj|c:\\users\\emre\\desktop\\op\\angularproje\\instrafstructure\\angularproject.persistonts\\concretes\\logservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F19575A5-9257-45BD-A678-82D7CF82A186}|Instrafstructure\\AngularProject.Persistonts\\AngularProject.Persistence.csproj|solutionrelative:instrafstructure\\angularproject.persistonts\\concretes\\logservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F19575A5-9257-45BD-A678-82D7CF82A186}|Instrafstructure\\AngularProject.Persistonts\\AngularProject.Persistence.csproj|c:\\users\\emre\\desktop\\op\\angularproje\\instrafstructure\\angularproject.persistonts\\concretes\\geometrysevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F19575A5-9257-45BD-A678-82D7CF82A186}|Instrafstructure\\AngularProject.Persistonts\\AngularProject.Persistence.csproj|solutionrelative:instrafstructure\\angularproject.persistonts\\concretes\\geometrysevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3313335-09FD-431F-8206-21FE38B94DFD}|Core\\AngularProject.Application\\AngularProject.Application.csproj|c:\\users\\emre\\desktop\\op\\angularproje\\core\\angularproject.application\\repositorieslogger\\ilogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3313335-09FD-431F-8206-21FE38B94DFD}|Core\\AngularProject.Application\\AngularProject.Application.csproj|solutionrelative:core\\angularproject.application\\repositorieslogger\\ilogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3313335-09FD-431F-8206-21FE38B94DFD}|Core\\AngularProject.Application\\AngularProject.Application.csproj|c:\\users\\emre\\desktop\\op\\angularproje\\core\\angularproject.application\\repositorieslogger\\iloggerreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3313335-09FD-431F-8206-21FE38B94DFD}|Core\\AngularProject.Application\\AngularProject.Application.csproj|solutionrelative:core\\angularproject.application\\repositorieslogger\\iloggerreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3313335-09FD-431F-8206-21FE38B94DFD}|Core\\AngularProject.Application\\AngularProject.Application.csproj|c:\\users\\emre\\desktop\\op\\angularproje\\core\\angularproject.application\\repositoriesgeometry\\igeomreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3313335-09FD-431F-8206-21FE38B94DFD}|Core\\AngularProject.Application\\AngularProject.Application.csproj|solutionrelative:core\\angularproject.application\\repositoriesgeometry\\igeomreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3313335-09FD-431F-8206-21FE38B94DFD}|Core\\AngularProject.Application\\AngularProject.Application.csproj|c:\\users\\emre\\desktop\\op\\angularproje\\core\\angularproject.application\\repositoriesgeometry\\igeomwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3313335-09FD-431F-8206-21FE38B94DFD}|Core\\AngularProject.Application\\AngularProject.Application.csproj|solutionrelative:core\\angularproject.application\\repositoriesgeometry\\igeomwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C861527-2D05-4E24-94DB-2E4E0282A2A8}|Presentetion\\AngularProject.Api\\AngularProject.Api.csproj|c:\\users\\emre\\desktop\\op\\angularproje\\presentetion\\angularproject.api\\controllers\\geometrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C861527-2D05-4E24-94DB-2E4E0282A2A8}|Presentetion\\AngularProject.Api\\AngularProject.Api.csproj|solutionrelative:presentetion\\angularproject.api\\controllers\\geometrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C861527-2D05-4E24-94DB-2E4E0282A2A8}|Presentetion\\AngularProject.Api\\AngularProject.Api.csproj|c:\\users\\emre\\desktop\\op\\angularproje\\presentetion\\angularproject.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C861527-2D05-4E24-94DB-2E4E0282A2A8}|Presentetion\\AngularProject.Api\\AngularProject.Api.csproj|solutionrelative:presentetion\\angularproject.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF7E30E-3E0C-4649-8A24-3D32079F4993}|Core\\AngularProject.Domain\\AngularProject.Domain.csproj|c:\\users\\emre\\desktop\\op\\angularproje\\core\\angularproject.domain\\entities\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FF7E30E-3E0C-4649-8A24-3D32079F4993}|Core\\AngularProject.Domain\\AngularProject.Domain.csproj|solutionrelative:core\\angularproject.domain\\entities\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F19575A5-9257-45BD-A678-82D7CF82A186}|Instrafstructure\\AngularProject.Persistonts\\AngularProject.Persistence.csproj|c:\\users\\emre\\desktop\\op\\angularproje\\instrafstructure\\angularproject.persistonts\\migrations\\loggerdb\\loggerdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F19575A5-9257-45BD-A678-82D7CF82A186}|Instrafstructure\\AngularProject.Persistonts\\AngularProject.Persistence.csproj|solutionrelative:instrafstructure\\angularproject.persistonts\\migrations\\loggerdb\\loggerdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F19575A5-9257-45BD-A678-82D7CF82A186}|Instrafstructure\\AngularProject.Persistonts\\AngularProject.Persistence.csproj|c:\\users\\emre\\desktop\\op\\angularproje\\instrafstructure\\angularproject.persistonts\\seviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F19575A5-9257-45BD-A678-82D7CF82A186}|Instrafstructure\\AngularProject.Persistonts\\AngularProject.Persistence.csproj|solutionrelative:instrafstructure\\angularproject.persistonts\\seviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F19575A5-9257-45BD-A678-82D7CF82A186}|Instrafstructure\\AngularProject.Persistonts\\AngularProject.Persistence.csproj|c:\\users\\emre\\desktop\\op\\angularproje\\instrafstructure\\angularproject.persistonts\\repositories\\writerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F19575A5-9257-45BD-A678-82D7CF82A186}|Instrafstructure\\AngularProject.Persistonts\\AngularProject.Persistence.csproj|solutionrelative:instrafstructure\\angularproject.persistonts\\repositories\\writerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F19575A5-9257-45BD-A678-82D7CF82A186}|Instrafstructure\\AngularProject.Persistonts\\AngularProject.Persistence.csproj|c:\\users\\emre\\desktop\\op\\angularproje\\instrafstructure\\angularproject.persistonts\\repositories\\userreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F19575A5-9257-45BD-A678-82D7CF82A186}|Instrafstructure\\AngularProject.Persistonts\\AngularProject.Persistence.csproj|solutionrelative:instrafstructure\\angularproject.persistonts\\repositories\\userreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F19575A5-9257-45BD-A678-82D7CF82A186}|Instrafstructure\\AngularProject.Persistonts\\AngularProject.Persistence.csproj|c:\\users\\emre\\desktop\\op\\angularproje\\instrafstructure\\angularproject.persistonts\\contexts\\geometrydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F19575A5-9257-45BD-A678-82D7CF82A186}|Instrafstructure\\AngularProject.Persistonts\\AngularProject.Persistence.csproj|solutionrelative:instrafstructure\\angularproject.persistonts\\contexts\\geometrydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{01321f1c-6c9e-3b5b-9c0f-66d2a373c254}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IReadUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Emre\\Desktop\\op\\AngularProje\\Core\\AngularProject.Application\\RepositoriesUser\\IReadUserRepository.cs",
+              "RelativeDocumentMoniker": "Core\\AngularProject.Application\\RepositoriesUser\\IReadUserRepository.cs",
+              "ToolTip": "C:\\Users\\Emre\\Desktop\\op\\AngularProje\\Core\\AngularProject.Application\\RepositoriesUser\\IReadUserRepository.cs",
+              "RelativeToolTip": "Core\\AngularProject.Application\\RepositoriesUser\\IReadUserRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T13:36:50.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Emre\\Desktop\\op\\AngularProje\\Instrafstructure\\AngularProject.Persistonts\\Concretes\\UserService.cs",
+              "RelativeDocumentMoniker": "Instrafstructure\\AngularProject.Persistonts\\Concretes\\UserService.cs",
+              "ToolTip": "C:\\Users\\Emre\\Desktop\\op\\AngularProje\\Instrafstructure\\AngularProject.Persistonts\\Concretes\\UserService.cs",
+              "RelativeToolTip": "Instrafstructure\\AngularProject.Persistonts\\Concretes\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T07:02:18.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LogService.cs",
+              "DocumentMoniker": "C:\\Users\\Emre\\Desktop\\op\\AngularProje\\Instrafstructure\\AngularProject.Persistonts\\Concretes\\LogService.cs",
+              "RelativeDocumentMoniker": "Instrafstructure\\AngularProject.Persistonts\\Concretes\\LogService.cs",
+              "ToolTip": "C:\\Users\\Emre\\Desktop\\op\\AngularProje\\Instrafstructure\\AngularProject.Persistonts\\Concretes\\LogService.cs",
+              "RelativeToolTip": "Instrafstructure\\AngularProject.Persistonts\\Concretes\\LogService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T07:02:16.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GeometrySevice.cs",
+              "DocumentMoniker": "C:\\Users\\Emre\\Desktop\\op\\AngularProje\\Instrafstructure\\AngularProject.Persistonts\\Concretes\\GeometrySevice.cs",
+              "RelativeDocumentMoniker": "Instrafstructure\\AngularProject.Persistonts\\Concretes\\GeometrySevice.cs",
+              "ToolTip": "C:\\Users\\Emre\\Desktop\\op\\AngularProje\\Instrafstructure\\AngularProject.Persistonts\\Concretes\\GeometrySevice.cs",
+              "RelativeToolTip": "Instrafstructure\\AngularProject.Persistonts\\Concretes\\GeometrySevice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T07:02:12.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ILogRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Emre\\Desktop\\op\\AngularProje\\Core\\AngularProject.Application\\RepositoriesLogger\\ILogRepository.cs",
+              "RelativeDocumentMoniker": "Core\\AngularProject.Application\\RepositoriesLogger\\ILogRepository.cs",
+              "ToolTip": "C:\\Users\\Emre\\Desktop\\op\\AngularProje\\Core\\AngularProject.Application\\RepositoriesLogger\\ILogRepository.cs",
+              "RelativeToolTip": "Core\\AngularProject.Application\\RepositoriesLogger\\ILogRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T07:01:59.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ILoggerReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Emre\\Desktop\\op\\AngularProje\\Core\\AngularProject.Application\\RepositoriesLogger\\ILoggerReadRepository.cs",
+              "RelativeDocumentMoniker": "Core\\AngularProject.Application\\RepositoriesLogger\\ILoggerReadRepository.cs",
+              "ToolTip": "C:\\Users\\Emre\\Desktop\\op\\AngularProje\\Core\\AngularProject.Application\\RepositoriesLogger\\ILoggerReadRepository.cs",
+              "RelativeToolTip": "Core\\AngularProject.Application\\RepositoriesLogger\\ILoggerReadRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T07:01:57.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IGeomReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Emre\\Desktop\\op\\AngularProje\\Core\\AngularProject.Application\\RepositoriesGeometry\\IGeomReadRepository.cs",
+              "RelativeDocumentMoniker": "Core\\AngularProject.Application\\RepositoriesGeometry\\IGeomReadRepository.cs",
+              "ToolTip": "C:\\Users\\Emre\\Desktop\\op\\AngularProje\\Core\\AngularProject.Application\\RepositoriesGeometry\\IGeomReadRepository.cs",
+              "RelativeToolTip": "Core\\AngularProject.Application\\RepositoriesGeometry\\IGeomReadRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T07:01:50.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IGeomWriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Emre\\Desktop\\op\\AngularProje\\Core\\AngularProject.Application\\RepositoriesGeometry\\IGeomWriteRepository.cs",
+              "RelativeDocumentMoniker": "Core\\AngularProject.Application\\RepositoriesGeometry\\IGeomWriteRepository.cs",
+              "ToolTip": "C:\\Users\\Emre\\Desktop\\op\\AngularProje\\Core\\AngularProject.Application\\RepositoriesGeometry\\IGeomWriteRepository.cs",
+              "RelativeToolTip": "Core\\AngularProject.Application\\RepositoriesGeometry\\IGeomWriteRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T07:01:48.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoggerDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Emre\\Desktop\\op\\AngularProje\\Instrafstructure\\AngularProject.Persistonts\\Migrations\\LoggerDb\\LoggerDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Instrafstructure\\AngularProject.Persistonts\\Migrations\\LoggerDb\\LoggerDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Emre\\Desktop\\op\\AngularProje\\Instrafstructure\\AngularProject.Persistonts\\Migrations\\LoggerDb\\LoggerDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Instrafstructure\\AngularProject.Persistonts\\Migrations\\LoggerDb\\LoggerDbContextModelSnapshot.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T15:00:56.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "C:\\Users\\Emre\\Desktop\\op\\AngularProje\\Core\\AngularProject.Domain\\Entities\\Logger.cs",
+              "RelativeDocumentMoniker": "Core\\AngularProject.Domain\\Entities\\Logger.cs",
+              "ToolTip": "C:\\Users\\Emre\\Desktop\\op\\AngularProje\\Core\\AngularProject.Domain\\Entities\\Logger.cs",
+              "RelativeToolTip": "Core\\AngularProject.Domain\\Entities\\Logger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T15:00:56.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SeviceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\Emre\\Desktop\\op\\AngularProje\\Instrafstructure\\AngularProject.Persistonts\\SeviceRegistration.cs",
+              "RelativeDocumentMoniker": "Instrafstructure\\AngularProject.Persistonts\\SeviceRegistration.cs",
+              "ToolTip": "C:\\Users\\Emre\\Desktop\\op\\AngularProje\\Instrafstructure\\AngularProject.Persistonts\\SeviceRegistration.cs",
+              "RelativeToolTip": "Instrafstructure\\AngularProject.Persistonts\\SeviceRegistration.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAuwDAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T15:00:56.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Emre\\Desktop\\op\\AngularProje\\Instrafstructure\\AngularProject.Persistonts\\Repositories\\WriteRepository.cs",
+              "RelativeDocumentMoniker": "Instrafstructure\\AngularProject.Persistonts\\Repositories\\WriteRepository.cs",
+              "ToolTip": "C:\\Users\\Emre\\Desktop\\op\\AngularProje\\Instrafstructure\\AngularProject.Persistonts\\Repositories\\WriteRepository.cs",
+              "RelativeToolTip": "Instrafstructure\\AngularProject.Persistonts\\Repositories\\WriteRepository.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T15:00:56.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Emre\\Desktop\\op\\AngularProje\\Instrafstructure\\AngularProject.Persistonts\\Repositories\\UserReadRepository.cs",
+              "RelativeDocumentMoniker": "Instrafstructure\\AngularProject.Persistonts\\Repositories\\UserReadRepository.cs",
+              "ToolTip": "C:\\Users\\Emre\\Desktop\\op\\AngularProje\\Instrafstructure\\AngularProject.Persistonts\\Repositories\\UserReadRepository.cs",
+              "RelativeToolTip": "Instrafstructure\\AngularProject.Persistonts\\Repositories\\UserReadRepository.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAjwBEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T15:00:56.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GeometryDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Emre\\Desktop\\op\\AngularProje\\Instrafstructure\\AngularProject.Persistonts\\Contexts\\GeometryDbContext.cs",
+              "RelativeDocumentMoniker": "Instrafstructure\\AngularProject.Persistonts\\Contexts\\GeometryDbContext.cs",
+              "ToolTip": "C:\\Users\\Emre\\Desktop\\op\\AngularProje\\Instrafstructure\\AngularProject.Persistonts\\Contexts\\GeometryDbContext.cs",
+              "RelativeToolTip": "Instrafstructure\\AngularProject.Persistonts\\Contexts\\GeometryDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T15:00:56.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Emre\\Desktop\\op\\AngularProje\\Presentetion\\AngularProject.Api\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Presentetion\\AngularProject.Api\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Emre\\Desktop\\op\\AngularProje\\Presentetion\\AngularProject.Api\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Presentetion\\AngularProject.Api\\Controllers\\UserController.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAcwDgAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T15:00:56.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GeometryController.cs",
+              "DocumentMoniker": "C:\\Users\\Emre\\Desktop\\op\\AngularProje\\Presentetion\\AngularProject.Api\\Controllers\\GeometryController.cs",
+              "RelativeDocumentMoniker": "Presentetion\\AngularProject.Api\\Controllers\\GeometryController.cs",
+              "ToolTip": "C:\\Users\\Emre\\Desktop\\op\\AngularProje\\Presentetion\\AngularProject.Api\\Controllers\\GeometryController.cs",
+              "RelativeToolTip": "Presentetion\\AngularProject.Api\\Controllers\\GeometryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T15:00:57.251Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Instrafstructure\\AngularProject.Persistonts",
+    "\\Instrafstructure\\AngularProject.Persistonts\\Migrations",
+    "\\Instrafstructure\\AngularProject.Persistonts\\Migrations\\LoggerDb",
+    "\\Presentetion",
+    "\\Presentetion\\AngularProject.Api",
+    "\\Presentetion\\AngularProject.Api\\Controllers"
+  ],
+  "SelectedNode": "\\Presentetion\\AngularProject.Api\\Controllers\\GeometryController.cs",
+  "PreviewInSolutionExplorer": false
+}
